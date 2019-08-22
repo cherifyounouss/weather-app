@@ -1,2 +1,2 @@
 # weather-app
-A comman line weather-app build with nodeJS
+A command line weather-app build with nodeJS
